@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @SydBro, or Sydney Brown for those who know me off the web.
+- 👀 I’m interested in designing living, breathing code!
+- 🌱 I’m currently learning JavaScript and Ruby on Rails.
+- 📫 bsydney95@gmail.com
